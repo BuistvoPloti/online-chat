@@ -9,7 +9,7 @@ function MessageForm({input, username, sendMessage, setInput}) {
   return (
     <form className="messageForm__form" action="">
       <FormControl className="messageForm__formControl">
-        <p className="amessageForm__currentUserName">{username}: </p>
+        <p className="messageForm__currentUserName">{username}: </p>
         <Input className="messageForm__input" placeholder="Enter a message..." value={input}
                onChange={event => setInput(event.target.value)} type=""/>
         <IconButton className="messageForm__iconButton" disabled={!input}
