@@ -2,45 +2,9 @@
   text-align: center;
 }
 
-.app__header {
-  display:flex;
-  place-items: center;
-  justify-content: center;
-}
 
-.app__logo {
-  margin-top:20px;
-  height:12vh;
-}
 
-.app__logoNameFirstPart {
-  color: red;
-  font-size: 6vh;
-  font-weight:bold;
-}
 
-.app__logoNameSecondPart {
-  font-size: 6vh;
-  font-weight:bold;
-}
-
-.app__form {
-  background-color: #e9e9eb;
-  padding:30px;
-}
-
-.app__formControl {
-  display: flex !important;
-  flex-direction: row !important;
-}
-
-.app__iconButton {
-  flex:0;
-}
-
-.app__input {
-  flex:1;
-}
 
 
 

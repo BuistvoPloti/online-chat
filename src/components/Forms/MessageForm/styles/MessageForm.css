@@ -1,0 +1,21 @@
+.messageForm__form {
+    background-color: #e9e9eb;
+    padding:30px;
+}
+
+.messageForm__formControl {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.messageForm__iconButton {
+    flex:0;
+}
+
+.messageForm__input {
+    flex:1;
+}
+
+.messageForm__currentUserName{
+    padding:5px;
+}

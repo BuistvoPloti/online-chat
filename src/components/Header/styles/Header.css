@@ -1,0 +1,21 @@
+.header__header {
+    display:flex;
+    place-items: center;
+    justify-content: center;
+}
+
+.header__logo {
+    margin-top:20px;
+    height:12vh;
+}
+
+.header__logoNameFirstPart {
+    color: red;
+    font-size: 6vh;
+    font-weight:bold;
+}
+
+.header__logoNameSecondPart {
+    font-size: 6vh;
+    font-weight:bold;
+}
