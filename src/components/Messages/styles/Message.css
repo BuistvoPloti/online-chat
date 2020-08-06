@@ -18,3 +18,22 @@
     background-color: rgb(233,233,235) !important;
 }
 
+.typography__user {
+    color:white;
+}
+
+.typography__guest {
+    color:black;
+}
+
+.Card {
+    border-radius: 30px;
+}
+
+.message__sender {
+    display:flex;
+    align-items: flex-start;
+    font-size:20px;
+    color: rgb(128,128,128);
+}
+
